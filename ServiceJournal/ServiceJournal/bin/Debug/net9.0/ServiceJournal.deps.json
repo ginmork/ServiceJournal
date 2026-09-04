@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ServiceJournal/1.0.0": {
+        "dependencies": {
+          "ServiceJournal.Logic": "1.0.0"
+        },
+        "runtime": {
+          "ServiceJournal.dll": {}
+        }
+      },
+      "ServiceJournal.Data/1.0.0": {
+        "runtime": {
+          "ServiceJournal.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ServiceJournal.Logic/1.0.0": {
+        "dependencies": {
+          "ServiceJournal.Data": "1.0.0"
+        },
+        "runtime": {
+          "ServiceJournal.Logic.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServiceJournal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceJournal.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceJournal.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

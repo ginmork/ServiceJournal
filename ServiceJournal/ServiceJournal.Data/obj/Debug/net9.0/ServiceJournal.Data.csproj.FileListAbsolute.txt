@@ -1,0 +1,12 @@
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Data\bin\Debug\net9.0\ServiceJournal.Data.deps.json
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Data\bin\Debug\net9.0\ServiceJournal.Data.dll
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Data\bin\Debug\net9.0\ServiceJournal.Data.pdb
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Data\obj\Debug\net9.0\ServiceJournal.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Data\obj\Debug\net9.0\ServiceJournal.Data.AssemblyInfoInputs.cache
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Data\obj\Debug\net9.0\ServiceJournal.Data.AssemblyInfo.cs
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Data\obj\Debug\net9.0\ServiceJournal.Data.csproj.CoreCompileInputs.cache
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Data\obj\Debug\net9.0\ServiceJournal.Data.sourcelink.json
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Data\obj\Debug\net9.0\ServiceJournal.Data.dll
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Data\obj\Debug\net9.0\refint\ServiceJournal.Data.dll
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Data\obj\Debug\net9.0\ServiceJournal.Data.pdb
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Data\obj\Debug\net9.0\ref\ServiceJournal.Data.dll

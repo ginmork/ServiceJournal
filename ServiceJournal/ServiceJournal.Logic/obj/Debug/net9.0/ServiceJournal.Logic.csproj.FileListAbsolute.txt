@@ -1,0 +1,16 @@
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Logic\bin\Debug\net9.0\ServiceJournal.Logic.deps.json
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Logic\bin\Debug\net9.0\ServiceJournal.Logic.dll
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Logic\bin\Debug\net9.0\ServiceJournal.Logic.pdb
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Logic\bin\Debug\net9.0\ServiceJournal.Data.dll
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Logic\bin\Debug\net9.0\ServiceJournal.Data.pdb
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Logic\obj\Debug\net9.0\ServiceJournal.Logic.csproj.AssemblyReference.cache
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Logic\obj\Debug\net9.0\ServiceJournal.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Logic\obj\Debug\net9.0\ServiceJournal.Logic.AssemblyInfoInputs.cache
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Logic\obj\Debug\net9.0\ServiceJournal.Logic.AssemblyInfo.cs
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Logic\obj\Debug\net9.0\ServiceJournal.Logic.csproj.CoreCompileInputs.cache
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Logic\obj\Debug\net9.0\ServiceJournal.Logic.sourcelink.json
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Logic\obj\Debug\net9.0\ServiceJ.BE5B5B89.Up2Date
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Logic\obj\Debug\net9.0\ServiceJournal.Logic.dll
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Logic\obj\Debug\net9.0\refint\ServiceJournal.Logic.dll
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Logic\obj\Debug\net9.0\ServiceJournal.Logic.pdb
+C:\Users\1899-23\Desktop\ServiceJournal\ServiceJournal\ServiceJournal.Logic\obj\Debug\net9.0\ref\ServiceJournal.Logic.dll
