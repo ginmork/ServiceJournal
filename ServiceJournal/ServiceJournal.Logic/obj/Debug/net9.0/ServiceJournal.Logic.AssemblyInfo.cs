@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServiceJournal.Logic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+212f2fa4ec658faf1eb4856773a5ee5150656990")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e2c4688823c47e7323cdbcc6d3f8cba2cf2a20a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServiceJournal.Logic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServiceJournal.Logic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
