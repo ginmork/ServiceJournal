@@ -1,6 +1,8 @@
+using ServiceJournal.Logic;
+
 namespace ServiceJournal.Data;
 
-public class RepairRepository
+public class RepairRepository : IRepairRepository
 {
     private readonly List<Repair> _items = new()
     {
