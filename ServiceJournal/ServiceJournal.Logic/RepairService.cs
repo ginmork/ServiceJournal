@@ -1,12 +1,14 @@
-using ServiceJournal.Data;
-
 namespace ServiceJournal.Logic;
 
 public class RepairService
 {
-    private readonly RepairRepository _repository = new();
+    private readonly IRepairRepository _repository;
 
-    public List<Repair> GetUnfinished()
+    public RepairService (IRepairRepository repository) {
+		_repository = repository;
+	}
+	
+	public List<Repair> GetImportant()
     {
         return _repository.GetAll()
             .Where(item => item.IsDone == "Нет")
