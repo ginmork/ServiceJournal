@@ -16,4 +16,9 @@ public class DemoRepairRepository : IRepairRepository
             }
         };
     }
+	
+	public void Add(Repair item)
+		{
+			// Демонстрационное хранилище доступно только для чтения
+		}
 }

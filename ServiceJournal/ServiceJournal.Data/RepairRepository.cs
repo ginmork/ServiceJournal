@@ -16,4 +16,9 @@ public class RepairRepository : IRepairRepository
     {
         return _items;
     }
+	
+	public void Add(Repair item)
+	{
+		_items.Add(item);
+	}
 }
